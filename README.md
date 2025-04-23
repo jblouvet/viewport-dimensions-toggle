@@ -1,7 +1,7 @@
 # Viewport Dimensions Toggle
 
 ![GitHub stars](https://img.shields.io/github/stars/jblouvet/viewport-dimensions-toggle?style=social)
-![GitHub license](https://img.shields.io/github/license/TONUSERNAME/viewport-dimensions-toggle)
+![GitHub license](https://img.shields.io/github/license/jblouvet/viewport-dimensions-toggle)
 
 A simple and lightweight bookmarklet that instantly displays the viewport dimensions in any browser. Ideal for web developers, responsive designers, and SEO professionals who need to quickly know the screen dimensions without opening developer tools.
 
